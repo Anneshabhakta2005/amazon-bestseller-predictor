@@ -1,17 +1,23 @@
 # FSP_Project_Amazon_bestseller_predictor
-✅ STEP 1: Final files that MUST be in your folder
+🚀 Live Demo
+👉 https://amazon-bestseller-predictor.streamlit.app
 
+✅ STEP 1: Final files that MUST be in your folder
 Before uploading, make sure your project folder looks like this:
 
 amazon-bestseller-predictor/
 │
 ├── app.py
+
 ├── amazon_books_model.pkl
+
 ├── main_genre_encoder.pkl
+
 ├── sub_genre_encoder.pkl
+
 ├── requirements.txt
+
 ├── README.md
-└── .gitignore   (recommended)
 
 ✅ STEP 2: Create .gitignore file (IMPORTANT)
 
